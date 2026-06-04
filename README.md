@@ -45,10 +45,6 @@ This system leverages machine learning algorithms to analyze customer data and p
 * NumPy
 * XGBoost
 
-### Database
-
-* MySQL / PostgreSQL
-
 ### Frontend
 
 * HTML
