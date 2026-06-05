@@ -8,6 +8,11 @@ This project helps financial institutions reduce credit losses, improve loan app
 
 ---
 
+
+<img width="1536" height="1024" alt="Banking" src="https://github.com/user-attachments/assets/784a7bf9-e377-4151-9dc9-316084b53d4e" />
+
+
+
 ## Features
 
 * Customer Credit Risk Assessment
