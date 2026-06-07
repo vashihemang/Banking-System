@@ -128,13 +128,13 @@ The model may use the following customer attributes:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/credit-risk-banking-system.git
+git clone https://github.com/vashihemang/Banking-System.git
 ```
 
 ### Navigate to Project
 
 ```bash
-cd credit-risk-banking-system
+cd Banking-System
 ```
 
 ### Install Dependencies
