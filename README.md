@@ -22,8 +22,6 @@ This project helps financial institutions reduce credit losses, improve loan app
 * Data Visualization and Reporting
 * Real-Time Risk Evaluation
 * Historical Data Analysis
-* Secure User Authentication
-* REST API Integration
 * Decision Support Dashboard
 
 ---
