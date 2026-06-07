@@ -21,7 +21,6 @@ This project helps financial institutions reduce credit losses, improve loan app
 * Risk Classification (Low, Medium, High)
 * Data Visualization and Reporting
 * Real-Time Risk Evaluation
-* Historical Data Analysis
 * Decision Support Dashboard
 
 ---
@@ -39,14 +38,13 @@ This system leverages machine learning algorithms to analyze customer data and p
 ### Backend
 
 * Python
-* Flask / FastAPI
+* Flask 
 
 ### Machine Learning
 
 * Scikit-Learn
 * Pandas
 * NumPy
-* XGBoost
 
 ### Frontend
 
